@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a student, currently studying in NIT Raipur.<br>I'm looking to collaborate on web and app development.<br>I'm currently learning flutter for app development.<br>Fun Fact: I can say no to anything😅
+I'm a student, currently studying in NIT Raipur.<br>I'm looking to collaborate on web and app development.<br>I'm currently learning flutter for app development.<br>Fun Fact: I can say no to anything😅<br>Jack of All, King of None.
 
 
 ## 🌐 Socials:
